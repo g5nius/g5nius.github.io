@@ -28,10 +28,16 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 个人信息
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/g5nius/g5nius.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### 姓名：靳旭斌
+#### 学历：大一人工智能专业在读
+#### 学校：西安理工大学
+#### 邮箱：2113605044@qq.com或adams.prophesy.gmail.com
+#### 地址：陕西省西安市雁塔区雁翔路
 
-### Support or Contact
+### 最近研究
+
+前端js，机器学习，密码学，Linux内核研究
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
